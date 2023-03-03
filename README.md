@@ -1,4 +1,5 @@
 My first readme
-My README.md has been updated
-Update
-Update now
+<<<<<<< HEAD
+=======
+My first readme has been updated.
+>>>>>>> update_script
